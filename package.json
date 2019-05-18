@@ -1,0 +1,14 @@
+{
+  "name": "entrega1",
+  "version": "1.0.0",
+  "description": "primera entrega curso nodejs",
+  "main": "principal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaime jaimearios1986@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
